@@ -1,0 +1,3 @@
+I:\SqlExcel\SmallTools\SqlExcel\bin\Release\SqlExcel.exe.config
+E:\MyFile\Projects\SmallTools\SqlExcel\bin\Release\SqlExcel.exe
+E:\MyFile\Projects\SmallTools\SqlExcel\bin\Release\IrisSkin2.dll
